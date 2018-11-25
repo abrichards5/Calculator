@@ -1,0 +1,42 @@
+.btn.btn-primary{
+    width: 100%;
+    height: 60px;
+    justify-content: left;
+    font-style: oblique;
+    background-color: rgb(193, 194, 189);
+    box-sizing:border-box;
+    font-size: xx-large;
+}
+.btn.btn-second{
+    width: 100%;
+    height: 60px;
+    justify-content: left;
+    font-style: oblique;
+    background-color: rgb(250, 250, 249);
+    box-sizing:border-box;
+    font-size: xx-large;
+}
+.btn.btn-control{
+    width: 100%;
+    height: 60px;
+    justify-content: left;
+    font-style: oblique;
+    background-color: rgb(197, 125, 125);
+    box-sizing:border-box;
+    font-size: xx-large;
+}
+input[type=text]
+{
+    height: 70px;
+    background-color: white;
+    color: rgb(250, 39, 24);
+    text-align: right;
+    border-color: black;
+    font-size:x-large;
+}
+
+.container
+{
+    text-align: center;
+    font-size: xx-large;
+}
